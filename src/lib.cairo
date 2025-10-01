@@ -1,0 +1,1 @@
+mod meu_contrato;
